@@ -6,3 +6,5 @@ Apresentação feita no 2o encontro do grupo de programação científica SciPy-
 
 > arquivo: https://github.com/pnovais/scipy_estudos/blob/master/gal_%232041.txt
 
+> Apresentação: https://www.youtube.com/watch?v=1o34zjQYgvY
+
